@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:TLinker"
+            x:Class="TLinker.HomePage">
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Settings"
+                     Clicked="ToobarItem_Clicked"/>
+    </TabbedPage.ToolbarItems>
+    <local:ContactsPage Title="Contacts"/>
+    <local:CardsPage Title="Cards"/>
+    <local:LinkPage Title="Scan"/>
+    <local:DesignPage Title="Design"/>
+    <local:NotificationsPage Title="Notifications"/>
+</TabbedPage>
