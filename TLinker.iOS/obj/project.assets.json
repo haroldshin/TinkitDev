@@ -1175,11 +1175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/TLinker.iOS.csproj",
+      "projectUniqueName": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/TLinker.iOS.csproj",
       "projectName": "TLinker.iOS",
-      "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/TLinker.iOS.csproj",
+      "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/TLinker.iOS.csproj",
       "packagesPath": "/Users/HHShin/.nuget/packages/",
-      "outputPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/obj",
+      "outputPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/HHShin/.config/NuGet/NuGet.Config"
@@ -1193,8 +1193,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/TLinker.csproj": {
-              "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/TLinker.csproj"
+            "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/TLinker.csproj": {
+              "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/TLinker.csproj"
             }
           }
         }

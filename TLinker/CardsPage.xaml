@@ -11,7 +11,9 @@
                        Keyboard="Text" FontSize="18" HorizontalTextAlignment="Start" />
                 <Button Text="Generate QR" HorizontalOptions="FillAndExpand" Clicked="Button_Clicked" Style="{StaticResource normalButton}"/>
             </StackLayout>
-            <local:QRResult x:Name="qrResult" />
+            <StackLayout VerticalOptions="EndAndExpand" Padding="50,5,50,5">
+                <local:QRResult x:Name="qrResult" />
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

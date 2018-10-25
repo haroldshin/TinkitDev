@@ -1,2 +1,2 @@
 android.app.Application
-com.TR.TLinker
+com.TR.Tinkit

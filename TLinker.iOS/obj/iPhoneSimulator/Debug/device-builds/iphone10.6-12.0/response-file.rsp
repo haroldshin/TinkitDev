@@ -1,5 +1,5 @@
---cache=/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/mtouch-cache
---sim=/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/TLinker.iOS.app
+--cache=/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/mtouch-cache
+--sim=/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/TLinker.iOS.app
 --executable=TLinker.iOS
 --debug
 --nolink
@@ -9,13 +9,13 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
---symbollist=/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/mtouch-symbols.list
+--symbollist=/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/mtouch-symbols.list
 --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
--r=/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/bin/Debug/netstandard2.0/TLinker.dll
+-r=/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/bin/Debug/netstandard2.0/TLinker.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Primitives.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Registry.AccessControl.dll
@@ -205,7 +205,7 @@
 -r=/Users/HHShin/.nuget/packages/zxing.net.mobile/2.4.1/lib/Xamarin.iOS10/zxing.portable.dll
 -r=/Users/HHShin/.nuget/packages/zxing.net.mobile.forms/2.4.1/lib/Xamarin.iOS10/ZXing.Net.Mobile.Forms.dll
 -r=/Users/HHShin/.nuget/packages/zxing.net.mobile.forms/2.4.1/lib/Xamarin.iOS10/ZXing.Net.Mobile.Forms.iOS.dll
--r=/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/bin/Debug/netstandard2.0/TLinker.dll
+-r=/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/bin/Debug/netstandard2.0/TLinker.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/bin/iPhoneSimulator/Debug/TLinker.iOS.exe
+--root-assembly=/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/bin/iPhoneSimulator/Debug/TLinker.iOS.exe
 

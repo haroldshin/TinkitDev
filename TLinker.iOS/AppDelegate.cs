@@ -27,7 +27,7 @@ namespace TLinker.iOS
 
             global::ZXing.Net.Mobile.Forms.iOS.Platform.Init();
 
-            string dbName = "tlinker_db.sqlite";
+            string dbName = "tinkit_db.sqlite";
             string folderPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "..", "Library");
             string fullPath = Path.Combine(folderPath, dbName);
 

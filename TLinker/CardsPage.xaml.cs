@@ -24,11 +24,11 @@ namespace TLinker
                     barcode = new ZXingBarcodeImageView
                     {
                         HorizontalOptions = LayoutOptions.FillAndExpand,
-                        VerticalOptions = LayoutOptions.FillAndExpand,
+                        VerticalOptions = LayoutOptions.FillAndExpand
                     };
                     barcode.BarcodeFormat = ZXing.BarcodeFormat.QR_CODE;
-                    barcode.BarcodeOptions.Width = 500;
-                    barcode.BarcodeOptions.Height = 500;
+                    barcode.BarcodeOptions.Width = 1000;
+                    barcode.BarcodeOptions.Height = 1000;
                     barcode.BarcodeValue = contentEntry.Text.Trim();
                     qrResult.Content = barcode;
                 }

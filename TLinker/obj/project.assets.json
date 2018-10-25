@@ -543,11 +543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/TLinker.csproj",
+      "projectUniqueName": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/TLinker.csproj",
       "projectName": "TLinker",
-      "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/TLinker.csproj",
+      "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/TLinker.csproj",
       "packagesPath": "/Users/HHShin/.nuget/packages/",
-      "outputPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/obj",
+      "outputPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

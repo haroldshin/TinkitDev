@@ -1,4 +1,4 @@
-/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.iOS/bin/iPhoneSimulator/Debug/TLinker.iOS.exe
+/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.iOS/bin/iPhoneSimulator/Debug/TLinker.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/System.dll
@@ -44,7 +44,7 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Debug.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.ObjectModel.dll
 /Users/HHShin/.nuget/packages/zxing.net.mobile/2.4.1/lib/Xamarin.iOS10/ZXingNetMobile.dll
-/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/bin/Debug/netstandard2.0/TLinker.dll
+/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/bin/Debug/netstandard2.0/TLinker.dll
 /Users/HHShin/.nuget/packages/xamarin.forms/3.2.0.871581/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Users/HHShin/.nuget/packages/sqlite-net-pcl/1.5.231/lib/netstandard1.1/SQLite-net.dll
 /Users/HHShin/.nuget/packages/sqlitepclraw.core/1.1.11/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll

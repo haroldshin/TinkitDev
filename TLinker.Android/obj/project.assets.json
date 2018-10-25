@@ -1049,11 +1049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.Android/TLinker.Android.csproj",
+      "projectUniqueName": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.Android/TLinker.Android.csproj",
       "projectName": "TLinker.Android",
-      "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.Android/TLinker.Android.csproj",
+      "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.Android/TLinker.Android.csproj",
       "packagesPath": "/Users/HHShin/.nuget/packages/",
-      "outputPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker.Android/obj",
+      "outputPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/HHShin/.config/NuGet/NuGet.Config"
@@ -1067,8 +1067,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/TLinker.csproj": {
-              "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/Xamarin/TLinker/TLinker.csproj"
+            "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/TLinker.csproj": {
+              "projectPath": "/Users/HHShin/Folders/Apps/Projects/Tinkit/TinkitDev/TLinker/TLinker.csproj"
             }
           }
         }
